@@ -1,0 +1,15 @@
+C:\Users\arjun\source\repos\QUIZ\QUIZ\bin\Release\QUIZ.exe.config
+C:\Users\arjun\source\repos\QUIZ\QUIZ\bin\Release\QUIZ.exe
+C:\Users\arjun\source\repos\QUIZ\QUIZ\bin\Release\QUIZ.pdb
+C:\Users\arjun\source\repos\QUIZ\QUIZ\bin\Release\QUIZ.xml
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.vbproj.AssemblyReference.cache
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.Form1.resources
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.Form2.resources
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.Form3.resources
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.Form4.resources
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.Resources.resources
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.vbproj.GenerateResource.cache
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.vbproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.exe
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.xml
+C:\Users\arjun\source\repos\QUIZ\QUIZ\obj\Release\QUIZ.pdb
